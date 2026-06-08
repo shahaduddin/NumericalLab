@@ -414,4 +414,6 @@ These are only example values to help you test the programs quickly.
 
 ## License
 
-No license file is included yet. Add one if you want to share or publish the project formally.
+This repository is released under the MIT License. See the `LICENSE` file for the full text.
+
+Summary: the MIT License grants broad permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided the copyright notice and license are included with substantial portions of the software.
